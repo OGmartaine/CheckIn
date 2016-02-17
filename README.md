@@ -23,7 +23,7 @@ Create a web-application that can be used by gyms or other companies, where peop
 + One of the team members has exceptional past experience working with web design.
 
 ## Requirements
-We anticipate that we will encounter several requirements that will dicate the success or failure of the application. Due to the application being a Software as a Service application (SaaS), we inherit additional requirements that must be fufilled in order for our application to be a useful and a successful tool.
++ We anticipate that we will encounter several requirements that will dicate the success or failure of the application. Due to the application being a Software as a Service application (SaaS), we inherit additional requirements that must be fufilled in order for our application to be a useful and a successful tool.
 
 ### User Requirements
 + The system interface will be user friendly, it will integrate several frameworks to create a sleek, modern ui.
